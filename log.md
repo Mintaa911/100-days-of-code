@@ -18,3 +18,12 @@
 **Thouhts**: I started coding thinking that today would be for trial and I will start the challenge tomorrow but when I sat down and start coding the time has passed with noticing it.
 
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+
+### Day O: March 15, 2021
+
+**Today's Progress**: I finished the basic javascript freeCodeCamp exercises
+
+**Thouhts**: I was going to do earlier in the day but I had classes and was unable to do. I started late at night and had a bit struggle with sleep. Finally I finished my plan for the day .
+
+**Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
