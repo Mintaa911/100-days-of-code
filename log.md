@@ -20,10 +20,18 @@
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
 
 
-### Day O: March 15, 2021
+### Day 1: March 16, 2021
 
 **Today's Progress**: I finished the basic javascript freeCodeCamp exercises
 
-**Thouhts**: I was going to do earlier in the day but I had classes and was unable to do. I started late at night and had a bit struggle with sleep. Finally I finished my plan for the day .
+**Thoughts**: I was going to do earlier in the day but I had classes and was unable to do. I started late at night and had a bit struggle with sleep. Finally I finished my plan for the day .
+
+**Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+### Day 2: March 17, 2021
+
+**Today's Progress**: I have started reading ES6 JavaScript and code practice on freeCodeCamp
+
+**Thoughts**: I have come across different concept in ES6 concepts like Arrow function, rest/spread, destructuring, ObjectFreez and other. This concepts makes coding easier.
 
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
