@@ -35,3 +35,11 @@
 **Thoughts**: I have come across different concept in ES6 concepts like Arrow function, rest/spread, destructuring, ObjectFreez and other. This concepts makes coding easier.
 
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+### Day 3: March 19, 2021
+
+**Today's Progress**: Read and practiced Regular Expressions in javascript
+
+**Thoughts**: I see that Regex is very useful for form validation and check string patterns
+
+**Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
