@@ -43,3 +43,11 @@
 **Thoughts**: I see that Regex is very useful for form validation and check string patterns
 
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+### Day 4: March 22, 2021
+
+**Today's Progress**: Finished the exercises about regex on freeCodeCamp
+
+**Thoughts**: returned to coding after two days and and forgot to update my github. Now I am doing it for yesterday's code
+
+**Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
