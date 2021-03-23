@@ -51,3 +51,10 @@
 **Thoughts**: returned to coding after two days and and forgot to update my github. Now I am doing it for yesterday's code
 
 **Link to work:** [coding exercises] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+### Day 5: March 23, 2021
+
+**Today's Progress**: I did some html css and javascript code 
+
+**Thoughts**: I had spent for 3hours doing admin dashboard for a project
+
